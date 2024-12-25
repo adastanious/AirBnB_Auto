@@ -1,0 +1,6 @@
+history
+clear
+mv
+cp
+grep
+find
